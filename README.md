@@ -1,3 +1,5 @@
+WARNING: currently broken (not possible) in voicecode 2.1.0
+
 adds commands:
 - `help voice` opens the voice code commands page and puts cursor
   focus in the search field.
